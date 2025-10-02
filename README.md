@@ -4,6 +4,7 @@
 # LiDAR Point Cloud Super-Resolution 
 
 This project implements a **LiDAR point cloud super-resolution pipeline** that upscales low-resolution LiDAR scans (e.g., 32/64-beam) into higher-resolution representations (128-beam). The method leverages **Potts model optimization, edge preservation, density consistency checks, and ICP alignment** to generate enhanced point clouds for applications such as **autonomous driving, mapping, and robotics**.  
+**Note** : The dataset i used is from [**Outster**](https://ouster.com/)
 
 ---
 
